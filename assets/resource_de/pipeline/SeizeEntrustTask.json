@@ -39,9 +39,9 @@
     },
     "isSeizeEntrustTaskSuccessful": {
         "expected": [
-                    "heute",
-                    "bereits",
-                    "angenommene"
-                ]
-            }
+            "Fortfahren",
+            "schnell",
+            "angenommen"
+        ]
+    }
 }
