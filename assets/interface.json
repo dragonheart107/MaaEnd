@@ -110,12 +110,21 @@
             ]
         },
         {
-            "name": "Global",
-            "label": "$resource.Global.label",
+            "name": "GlobalEN",
+            "label": "$resource.GlobalEN.label",
             "path": [
                 "./resource_fast",
                 "./resource",
                 "./resource_en"
+            ]
+        },
+        {
+            "name": "GlobalDE",
+            "label": "$resource.GlobalDE.label",
+            "path": [
+                "./resource_fast",
+                "./resource",
+                "./resource_de"
             ]
         }
     ],

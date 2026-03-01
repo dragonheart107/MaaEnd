@@ -1,0 +1,47 @@
+{
+    "SeizeEntrustTaskErrorTaskStop": {
+        "expected": [
+            "deninformati"
+        ]
+    },
+    "SeizeEntrustTaskMain": {
+        "expected": [
+            "deninformati"
+        ]
+    },
+    "SeizeEntrustTaskNews": {
+        "expected": [
+            "Aktualisier"
+        ]
+    },
+    "SeizeEntrustTaskNews2": {
+        "expected": [
+            "Aktualisier"
+        ]
+    },
+    "SeizeEntrustTaskNewsStatus1": {
+        "expected": [
+            "Lieferauftrag",
+            "annehmen"
+        ]
+    },
+    "SeizeEntrustTaskNewsStatus2": {
+        "expected": [
+            "Lieferauftrag",
+            "annehmen"
+        ]
+    },
+    "SeizeEntrustTaskPostEntrust3": {
+        "expected": [
+            "Lieferauftrag",
+            "annehmen"
+        ]
+    },
+    "isSeizeEntrustTaskSuccessful": {
+        "expected": [
+                    "heute",
+                    "bereits",
+                    "angenommene"
+                ]
+            }
+}
